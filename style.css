@@ -1,0 +1,94 @@
+*{
+    background-color: rgb(255, 255, 255);
+    /* font-family: "Helvetica Neue",Helvetica; */
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    background-image: Untitled;
+
+}
+.container{
+    /* width: auto; */
+    height: auto;
+    width:fit-content;
+    display: flex;
+    margin:auto;
+    margin-top:10%;
+}
+
+h3,p{
+    text-align: center;
+}
+p{
+    font-weight:bolder;
+    font-size:larger;
+    margin-bottom: 10px;
+    margin-top:3px;
+    background-color: aliceblue; 
+}
+button{
+    border-radius: 6px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    color:white;
+    background-color:rgb(8, 128, 108);
+    font-weight:bold;
+    box-shadow: none;
+}
+h3{
+    background-color:rgb(8, 128, 108);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin:auto;
+    /* border-radius: 10px; */
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    color:white;
+    box-shadow: 1px 1px 4px rgb(35, 178, 214); 
+    
+}
+.box{
+    width: 200px;
+    height: 250px;
+    margin: 30px;
+    border-radius: 6px;
+    text-align: center;
+    box-shadow: 1px 1px 4px rgb(2, 32, 39); 
+    background-color: aliceblue; 
+}
+ul{
+    text-align: left;
+    margin-bottom: 10px;
+    list-style-type: none;  
+    background-color: aliceblue; 
+    
+}
+#middle{
+    margin-top: 0px;
+}
+#standard_head{
+    background-color: rgb(216, 18, 18);
+}
+
+#green{
+    color: green;
+    background-color: aliceblue; 
+}
+#red{
+    color:red;
+    background-color: aliceblue; 
+}
+#redbutton{
+    background-color:  rgb(216, 18, 18);
+    
+}
+li{
+    padding: 1px;
+    background-color: aliceblue; 
+}
+h4{
+    text-align: center;
+    font-size: xx-large;
+    color:aquamarine
+}
