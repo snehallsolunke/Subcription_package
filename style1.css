@@ -1,0 +1,20 @@
+*{  margin:0px; padding:0px; box-sizing: border-box;
+}
+.container{ height: auto; width:fit-content; display: flex; margin:auto;
+    margin-top:5%; text-align: center;
+}
+.box1{ width: 270px; height: auto;  border: 1px solid rgb(161, 154, 154);
+}
+.box2{ width: 270px; height: auto;  border: 0.5px solid rgb(161, 154, 154); 
+}
+#logo1{  width:180px; height:80px; padding:10px;   
+}
+#logo2{ width:180px; height:80px; padding:10px;
+}
+.box1 > h3 { background-color: rgb(18, 182, 100); padding:3px; color:white;  
+}
+.box2 > h3 {  background-color:rgb(255, 180, 0); padding:3px; color:white;
+}
+h4 {  height:80px; padding:10px; margin: auto; color:rgb(95, 95, 180); 
+
+
